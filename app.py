@@ -100,7 +100,7 @@ app.layout = html.Div([
     html.Div(
         html.H1(
             "Gdp Per Capita of Different Countries",
-            style={"color": "white", "font-family": "serif"}),
+            style={"color": "Black", "font-family": "serif"}),
     className="row"
     ),
 
@@ -108,7 +108,7 @@ app.layout = html.Div([
     html.Div(
         html.P(
             "Gdp per capita over time. Includes projected gdp per capita up to the year 2100. Data available per country varies.",
-            style={"color": "white", "font-family": "serif"}),
+            style={"color": "Black", "font-family": "serif"}),
     className="row"
     ),
 
